@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.11)  12 AUG 2020 00:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.11)  12 AUG 2020 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -141,8 +141,8 @@ Overfull \hbox (47.93571pt too wide) in paragraph at lines 11--11
  []
 
 ! Undefined control sequence.
-l.18 \bf
-        \fontsize{14}{0}{\selectfont{CARRERA DE ANÁLISIS DE SISTEMAS}}
+l.19 \bf
+        \fontsize{14}{0}{\selectfont{CARRERA DE ANÁLISIS DE SISTEMAS}}\\[1cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -150,38 +150,52 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (72.04591pt too wide) in paragraph at lines 18--20
+Overfull \hbox (72.04591pt too wide) in paragraph at lines 19--19
  []\OT1/cmr/m/n/14.4 CARRERA 
  []
 
 
-Overfull \hbox (20.36145pt too wide) in paragraph at lines 18--20
+Overfull \hbox (20.36145pt too wide) in paragraph at lines 19--19
  \OT1/cmr/m/n/14.4 DE 
  []
 
 
-Overfull \hbox (66.35933pt too wide) in paragraph at lines 18--20
+Overfull \hbox (66.35933pt too wide) in paragraph at lines 19--19
  \OT1/cmr/m/n/14.4 AN[]ALISIS 
  []
 
 
-Overfull \hbox (20.36145pt too wide) in paragraph at lines 18--20
+Overfull \hbox (20.36145pt too wide) in paragraph at lines 19--19
  \OT1/cmr/m/n/14.4 DE 
  []
 
 
-Overfull \hbox (25.45303pt too wide) in paragraph at lines 18--20
+Overfull \hbox (25.45303pt too wide) in paragraph at lines 19--19
  \OT1/cmr/m/n/14.4 SIS- 
  []
 
 
-Overfull \hbox (51.09944pt too wide) in paragraph at lines 18--20
+Overfull \hbox (51.09944pt too wide) in paragraph at lines 19--19
  \OT1/cmr/m/n/14.4 TEMAS 
  []
 
 ! Undefined control sequence.
-l.30 \bf
-        \fontsize{13}{0}{\selectfont{DESARROLLO E IMPLEMENTACIÓN DE UN SIST...
+l.25 \bf
+        \fontsize{14}{0}{\selectfont{Tema:}}\\[1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (37.9912pt too wide) in paragraph at lines 25--25
+ []\OT1/cmr/m/n/14.4 Tema: 
+ []
+
+! Undefined control sequence.
+l.31 \bf
+        \fontsize{13}{0}{\selectfont{IMPLEMENTACIÓN DE UN GEOPORTAL QUE PER...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -190,210 +204,131 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 30.
+(Font)              size <12> substituted on input line 31.
 
 
-Overfull \hbox (82.23253pt too wide) in paragraph at lines 30--32
- []\OT1/cmr/m/n/12 DESARROLLO 
+Overfull \hbox (112.56554pt too wide) in paragraph at lines 31--33
+ []\OT1/cmr/m/n/12 IMPLEMENTACI[]ON 
  []
 
 
-Overfull \hbox (7.99437pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 E 
- []
-
-
-Overfull \hbox (18.92203pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 IM- 
- []
-
-
-Overfull \hbox (27.24696pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 PLE- 
- []
-
-
-Overfull \hbox (74.2298pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 MENTACI[]ON 
- []
-
-
-Overfull \hbox (16.9679pt too wide) in paragraph at lines 30--32
+Overfull \hbox (16.9679pt too wide) in paragraph at lines 31--33
  \OT1/cmr/m/n/12 DE 
  []
 
 
-Overfull \hbox (17.61649pt too wide) in paragraph at lines 30--32
+Overfull \hbox (17.61649pt too wide) in paragraph at lines 31--33
  \OT1/cmr/m/n/12 UN 
  []
 
 
-Overfull \hbox (21.21089pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 SIS- 
+Overfull \hbox (30.26915pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 GEO- 
  []
 
 
-Overfull \hbox (36.05519pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 TEMA 
+Overfull \hbox (29.69693pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 POR- 
  []
 
 
-Overfull \hbox (28.38722pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 WEB 
+Overfull \hbox (23.65671pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 TAL 
  []
 
 
-Overfull \hbox (33.27884pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 PARA 
+Overfull \hbox (25.9414pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 QUE 
  []
 
 
-Overfull \hbox (16.14984pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 LA 
+Overfull \hbox (28.5525pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 PER- 
  []
 
 
-Overfull \hbox (54.41335pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 GESTI[]ON 
+Overfull \hbox (31.32051pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 MITA 
  []
 
 
-Overfull \hbox (16.9679pt too wide) in paragraph at lines 30--32
+Overfull \hbox (20.39702pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 LO- 
+ []
+
+
+Overfull \hbox (53.51057pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 CALIZAR 
+ []
+
+
+Overfull \hbox (23.0081pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 LOS 
+ []
+
+
+Overfull \hbox (29.52748pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 PUN- 
+ []
+
+
+Overfull \hbox (24.15253pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 TOS 
+ []
+
+
+Overfull \hbox (16.9679pt too wide) in paragraph at lines 31--33
  \OT1/cmr/m/n/12 DE 
  []
 
 
-Overfull \hbox (35.56769pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 CITAS 
+Overfull \hbox (33.85522pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 PAGO 
  []
 
 
-Overfull \hbox (55.79527pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 M[]EDICAS 
- []
-
-
-Overfull \hbox (33.27884pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 PARA 
- []
-
-
-Overfull \hbox (16.14984pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 LA 
- []
-
-
-Overfull \hbox (50.40782pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 CL[]INICA 
- []
-
-
-Overfull \hbox (27.73445pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 FAR- 
- []
-
-
-Overfull \hbox (23.49142pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 MA- 
- []
-
-
-Overfull \hbox (23.0081pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 SOL 
- []
-
-
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 27 
- []
-
-
-Overfull \hbox (16.9679pt too wide) in paragraph at lines 30--32
+Overfull \hbox (16.9679pt too wide) in paragraph at lines 31--33
  \OT1/cmr/m/n/12 DE 
  []
 
 
-Overfull \hbox (58.08417pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 FEBRERO 
+Overfull \hbox (23.0081pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 LOS 
  []
 
 
-Overfull \hbox (24.3095pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 DEL 
+Overfull \hbox (27.08585pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 SER- 
  []
 
 
-Overfull \hbox (26.92473pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 SEC- 
+Overfull \hbox (16.96371pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 VI- 
  []
 
 
-Overfull \hbox (26.27196pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 TOR 
+Overfull \hbox (28.39137pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 CIOS 
  []
 
 
-Overfull \hbox (25.61086pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 VIR- 
+Overfull \hbox (52.04808pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 B[]ASICOS 
  []
 
 
-Overfull \hbox (26.02197pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 GEN 
- []
-
-
-Overfull \hbox (16.9679pt too wide) in paragraph at lines 30--32
+Overfull \hbox (16.9679pt too wide) in paragraph at lines 31--33
  \OT1/cmr/m/n/12 DE 
  []
 
 
-Overfull \hbox (51.06894pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 BRONCE 
- []
-
-
-Overfull \hbox (16.9679pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 DE 
- []
-
-
-Overfull \hbox (16.14984pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 LA 
- []
-
-
-Overfull \hbox (25.44974pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 CIU- 
- []
-
-
-Overfull \hbox (26.42891pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 DAD 
- []
-
-
-Overfull \hbox (16.9679pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 DE 
- []
-
-
-Overfull \hbox (54.655pt too wide) in paragraph at lines 30--32
- \OT1/cmr/m/n/12 CUENCA. 
+Overfull \hbox (51.39114pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/n/12 CUENCA 
  []
 
 ! Undefined control sequence.
-l.36 \bf
-        \fontsize{14}{0}{\selectfont{Autor: Nombre}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.38 \bf
-        \fontsize{14}{0}{\selectfont{Director: Ing. Marco Guamán Buestán}}...
+l.37 \bf
+        \fontsize{14}{0}{\selectfont{Autor: }}\\[0.5cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -401,53 +336,152 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (40.33618pt too wide) in paragraph at lines 36--38
+Overfull \hbox (40.33618pt too wide) in paragraph at lines 37--37
  []\OT1/cmr/m/n/14.4 Autor: 
  []
 
 
-Overfull \hbox (34.06961pt too wide) in paragraph at lines 36--38
- \OT1/cmr/m/n/14.4 Nom- 
+Overfull \hbox (48.5611pt too wide) in paragraph at lines 39--39
+ []\OT1/cmr/m/n/14.4 Nombre 
  []
 
 
-Overfull \hbox (19.58308pt too wide) in paragraph at lines 36--38
- \OT1/cmr/m/n/14.4 bre 
+Overfull \hbox (20.95142pt too wide) in paragraph at lines 39--39
+ \OT1/cmr/m/n/14.4 Del 
  []
 
 
-Overfull \hbox (19.38477pt too wide) in paragraph at lines 36--38
- \OT1/cmr/m/n/14.4 Di- 
+Overfull \hbox (19.85477pt too wide) in paragraph at lines 39--39
+ \OT1/cmr/m/n/14.4 Es- 
  []
 
 
-Overfull \hbox (22.71637pt too wide) in paragraph at lines 36--38
- \OT1/cmr/m/n/14.4 rec- 
+Overfull \hbox (18.01643pt too wide) in paragraph at lines 39--39
+ \OT1/cmr/m/n/14.4 tu- 
  []
 
 
-Overfull \hbox (21.93304pt too wide) in paragraph at lines 36--38
- \OT1/cmr/m/n/14.4 tor: 
+Overfull \hbox (16.44978pt too wide) in paragraph at lines 39--39
+ \OT1/cmr/m/n/14.4 di- 
  []
 
 
-Overfull \hbox (23.88638pt too wide) in paragraph at lines 36--38
- \OT1/cmr/m/n/14.4 Ing. 
+Overfull \hbox (26.24133pt too wide) in paragraph at lines 39--39
+ \OT1/cmr/m/n/14.4 ante 
+ []
+
+! Undefined control sequence.
+l.40 {\bf
+         \fontsize{14}{0}{\selectfont{Tutores: }}\\[0.5cm]}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.60269pt too wide) in paragraph at lines 40--40
+ []\OT1/cmr/m/n/14.4 Tutores: 
  []
 
 
-Overfull \hbox (38.76953pt too wide) in paragraph at lines 36--38
+Overfull \hbox (23.88638pt too wide) in paragraph at lines 41--41
+ []\OT1/cmr/m/n/14.4 Ing. 
+ []
+
+
+Overfull \hbox (27.41632pt too wide) in paragraph at lines 41--41
+ \OT1/cmr/m/n/14.4 San- 
+ []
+
+
+Overfull \hbox (14.09981pt too wide) in paragraph at lines 41--41
+ \OT1/cmr/m/n/14.4 ti- 
+ []
+
+
+Overfull \hbox (21.14973pt too wide) in paragraph at lines 41--41
+ \OT1/cmr/m/n/14.4 ago 
+ []
+
+
+Overfull \hbox (23.30139pt too wide) in paragraph at lines 41--41
+ \OT1/cmr/m/n/14.4 Du- 
+ []
+
+
+Overfull \hbox (33.6829pt too wide) in paragraph at lines 41--41
+ \OT1/cmr/m/n/14.4 razno 
+ []
+
+
+Overfull \hbox (23.88638pt too wide) in paragraph at lines 42--42
+ []\OT1/cmr/m/n/14.4 Ing. 
+ []
+
+
+Overfull \hbox (38.76953pt too wide) in paragraph at lines 42--42
  \OT1/cmr/m/n/14.4 Marco 
  []
 
 
-Overfull \hbox (52.57938pt too wide) in paragraph at lines 36--38
+Overfull \hbox (52.57938pt too wide) in paragraph at lines 42--42
  \OT1/cmr/m/n/14.4 Guam^^San 
  []
 
 
-Overfull \hbox (50.01273pt too wide) in paragraph at lines 36--38
+Overfull \hbox (50.01273pt too wide) in paragraph at lines 42--42
  \OT1/cmr/m/n/14.4 Buest^^San 
+ []
+
+
+Overfull \hbox (23.88638pt too wide) in paragraph at lines 43--43
+ []\OT1/cmr/m/n/14.4 Ing. 
+ []
+
+
+Overfull \hbox (29.07965pt too wide) in paragraph at lines 43--43
+ \OT1/cmr/m/n/14.4 Galo 
+ []
+
+
+Overfull \hbox (28.58633pt too wide) in paragraph at lines 43--43
+ \OT1/cmr/m/n/14.4 Hur- 
+ []
+
+
+Overfull \hbox (27.41632pt too wide) in paragraph at lines 43--43
+ \OT1/cmr/m/n/14.4 tado 
+ []
+
+
+Overfull \hbox (23.88638pt too wide) in paragraph at lines 44--44
+ []\OT1/cmr/m/n/14.4 Ing. 
+ []
+
+
+Overfull \hbox (29.95964pt too wide) in paragraph at lines 44--44
+ \OT1/cmr/m/n/14.4 Juan 
+ []
+
+
+Overfull \hbox (33.87625pt too wide) in paragraph at lines 44--44
+ \OT1/cmr/m/n/14.4 P^^Serez 
+ []
+
+
+Overfull \hbox (23.88638pt too wide) in paragraph at lines 45--45
+ []\OT1/cmr/m/n/14.4 Ing. 
+ []
+
+
+Overfull \hbox (27.41135pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 Max 
+ []
+
+
+Overfull \hbox (42.29947pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 Zu~niga 
  []
 
 Missing character: There is no C in font nullfont!
@@ -484,5 +518,5 @@ Here is how much of TeX's memory you used:
  15495 multiletter control sequences out of 15000+600000
  535983 words of font info for 32 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 15i,1n,15p,236b,119s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 15i,1n,15p,171b,119s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

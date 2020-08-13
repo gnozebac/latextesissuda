@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Problemática}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Causas}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problema}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Consecuencias}{1}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Marco referencial}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Antecedentes}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Marco teórico}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{2}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Metodología}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Diseño}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Enfoque}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Población y muestra}{3}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Método de recolección de información}{3}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Método de análisis de información}{3}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Análisis y resultados}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Comparativa}{4}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Propuesta}{5}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Requisitos}{5}{section.5.1}%

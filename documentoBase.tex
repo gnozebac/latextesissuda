@@ -1,14 +1,28 @@
 \documentclass[12pt,oneside]{book}
 %Preambulo		
 \input{partes/preambulo}
+%
 
 \begin{document}
-\include{partes/portada}
 
+%Primeras paginas
+
+\frontmatter
+\include{partes/portada}
+\include{partes/agradecimiento}
+\renewcommand{\contentsname}{Indice}
+\tableofcontents
+
+%capitulos
+\mainmatter
 \include{partes/capOne}
 \include{partes/capTwo}
 \include{partes/capThree}
 \include{partes/capFour}
 \include{partes/capFive}
+
+
+\bibliographystyle{apalike}%APA
+\bibliography{database}
 
 \end{document}
